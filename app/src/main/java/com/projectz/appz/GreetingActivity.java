@@ -15,7 +15,7 @@ public class GreetingActivity extends AppCompatActivity {
         setContentView(R.layout.activity_greeting);
 
         Intent intent = getIntent();
-        String message = "Welcome: " + intent.getStringExtra(KeyConstants.GREETING_STRING);
+        String message = "Warmly welcome: " + intent.getStringExtra(KeyConstants.GREETING_STRING);
 
         // Capture the layout's TextView and set the string as its text
         TextView textView = (TextView) findViewById(R.id.greeting_text);
