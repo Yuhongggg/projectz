@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AppZ</string>
+    <string name="title_activity_database">AppZ: Database</string>
+    <string name="title_activity_main">AppZ: Main</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">AppZ: Settings</string>
 </resources>
